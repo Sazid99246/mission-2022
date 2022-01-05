@@ -1,0 +1,31 @@
+.vertical-line {
+    border-left: 6px solid orange;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 75px;
+}
+.flex-container {
+    display: flex;
+}
+h1 {
+    font-size: 75px;
+    margin-left: 0;
+}
+#orange-color {
+    color: crimson
+}
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+.half-width img {
+    width: 100%;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;    
+}
