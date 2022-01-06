@@ -53,7 +53,7 @@ h1 {
     background-color: lightblue;
 }
 h2 {
-    font-size: 50px;
+    font-size: 40px;
 }
 #coding {
     height: 400px;
@@ -77,4 +77,23 @@ h2 {
     background-position: right bottom;
     padding-bottom: 50px;
     padding-right: 50px;
+}
+.contact h2{
+    text-align: center;
+}
+.contact {
+    margin: 0 20% 0;
+    background-color: limegreen;
+    color: white;
+    padding: 5%;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.footer h2 {
+    font-family: 'Lobster', cursive;
 }
