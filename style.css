@@ -69,3 +69,12 @@ h2 {
     background-position: left;
     background-size: 20%;
 }
+.community-bg {
+    background-image: url(images/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right bottom;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
