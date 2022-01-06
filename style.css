@@ -1,14 +1,14 @@
 .vertical-line {
     border-left: 6px solid orange;
-    height: 300px;
+    height: 200px;
     margin-left: 50px;
-    margin-top: 75px;
+    margin-top: 125px;
 }
 .flex-container {
     display: flex;
 }
 h1 {
-    font-size: 75px;
+    font-size: 60px;
     margin-left: 0;
 }
 #orange-color {
@@ -23,9 +23,35 @@ h1 {
 }
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(red, orange);
+    background-color: crimson;
     color: white;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5%;    
+}
+.h2-center {
+    text-align: center;
+}
+.mission-items {
+    height: 40%;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+.mission-items img {
+    width: 50%;
+}
+#mission {
+    background-color: khaki;
+}
+#vision {
+    background-color: lightgreen;
+}
+#goals {
+    background-color: lightblue;
+}
+h2 {
+    font-size: 50px;
 }
