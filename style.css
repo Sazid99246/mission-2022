@@ -1,6 +1,6 @@
 .vertical-line {
     border-left: 6px solid orange;
-    height: 200px;
+    height: 120px;
     margin-left: 50px;
     margin-top: 125px;
 }
@@ -54,4 +54,18 @@ h1 {
 }
 h2 {
     font-size: 50px;
+}
+#coding {
+    height: 400px;
+    width: 400px;
+    padding-right: 0;
+}
+.limits {
+    padding-left: 0;
+}
+.unlimited-develop {
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
 }
